@@ -45,7 +45,7 @@ This is the comprehensive capstone application index and management panel for Ca
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Trinh7777/xrwvm-fullstack_developer_capstone.git
+   git clone https://github.com/anle26/xrwvm-fullstack_developer_capstone.git
    cd xrwvm-fullstack_developer_capstone
    ```
 
